@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**hoangnamitc/hoangnamitc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```json
+Le Hoang Nam {
+  "job":      "Web Developer",
+  "birthday": "1x-08-199x",
+  "country":  "Viet Nam",
+  "city":     "Ho Chi Minh (HCM)",
+  "stack":    ["PHP", "MySQL", "HTML", "CSS", "JS", "..."],
+  "interest": ["Clean Code", "Testing", "Static Code Analysis", "Linux", "..."]
+}
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Web: [hoangnamitc.com](https://hoangnamitc.com/)
+- E-Mail: [hoangnamcode@gmail.com](mailto:hoangnamcode@gmail.com)
