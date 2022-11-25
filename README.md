@@ -3,7 +3,7 @@
 ```json
 Le Hoang Nam {
   "job":      "Web Developer",
-  "birthday": "1x-08-199x",
+  "birthday": "08/1991",
   "country":  "Viet Nam",
   "city":     "Ho Chi Minh (HCM)",
   "stack":    ["PHP", "MySQL", "HTML", "CSS", "JS", "..."],
@@ -11,5 +11,5 @@ Le Hoang Nam {
 }
 ```
 
-- Web: [hoangnamitc.com](https://hoangnamitc.com/)
+- Web: [nam.duoc.day](https://nam.duoc.day)
 - E-Mail: [hoangnamcode@gmail.com](mailto:hoangnamcode@gmail.com)
