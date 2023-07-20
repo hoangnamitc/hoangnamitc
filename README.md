@@ -11,5 +11,5 @@ Le Hoang Nam {
 }
 ```
 
-- Web: [nam ID](https://nam.id.vn)
+- Web: [Nam ID](https://nam.id.vn)
 - E-Mail: [hoangnamcode@gmail.com](mailto:hoangnamcode@gmail.com)
